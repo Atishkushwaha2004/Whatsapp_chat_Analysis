@@ -152,8 +152,8 @@ Atish Kushwaha
 B.Tech – Electronics & Communication Engineering
 
 Connect With Me
-GitHub: Atishkushwaha2004
-LinkedIn: Atish Kushwaha
+GitHub: [Atishkushwaha2004   ](https://github.com/Atishkushwaha2004)                                                                             
+LinkedIn: linkedin.com/in/atish-kushwaha-25a907268
 ⭐ Show Your Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
