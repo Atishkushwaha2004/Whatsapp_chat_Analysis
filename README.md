@@ -134,8 +134,8 @@ User-wise emoji usage
 
 Add screenshots of your application here:
 
-![WhatsApp Chat Analysis](<img width="1906" height="1025" alt="Screenshot 2026-08-20 212058" src="https://github.com/user-attachments/assets/e87b29ad-0702-4c08-a8e5-eef547601027" />
-)
+![WhatsApp Chat Analysis](screenshots/dashboard.png)<img width="1906" height="1025" alt="Screenshot 2026-08-20 212058" src="https://github.com/user-attachments/assets/301c286f-5ff5-4441-86bc-6d8cc3630729" />
+
 
 🎯 Future Improvements
 Sentiment analysis
